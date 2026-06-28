@@ -42,7 +42,7 @@ export const SEDES: Sede[] = [
     ],
     whatsapp: "+56 9 6813 2366",
     whatsappLink: "https://wa.me/56968132366",
-    tiktok: "@ffitnesschillan",
+    instagram: "@ffitnesschillan",
     image: sedeChillan,
     tagline: "El lugar donde la disciplina se transforma en resultados.",
     servicios: [

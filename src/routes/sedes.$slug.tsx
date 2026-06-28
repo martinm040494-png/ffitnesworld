@@ -100,7 +100,7 @@ function SedePage() {
                 </a>
               )}
               {sede.instagram && (
-                <a href={`https://instagram.com/${sede.instagram.replace('@', '')}`} target="_blank" rel="noopener" className="flex items-center gap-3 p-4 border border-border bg-surface hover:border-brand transition-colors">
+                <a href={`https://www.instagram.com/${sede.instagram.replace('@', '')}`} target="_blank" rel="noopener" className="flex items-center gap-3 p-4 border border-border bg-surface hover:border-brand transition-colors">
                   <Instagram size={18} className="text-brand" />
                   <div>
                     <div className="text-[10px] uppercase tracking-widest text-muted-foreground font-bold">Instagram</div>
