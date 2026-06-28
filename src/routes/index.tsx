@@ -32,7 +32,7 @@ function Index() {
           alt="Atleta entrenando en FFitness"
           width={1920}
           height={1280}
-          className="absolute inset-0 w-full h-full object-cover object-right"
+          className="absolute inset-0 w-full h-full object-cover object-right md:object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-background/40" />
         <div className="absolute inset-0 bg-gradient-to-r from-background/90 via-background/30 to-transparent" />
