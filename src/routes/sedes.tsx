@@ -55,6 +55,7 @@ function SedesIndex() {
             </ul>
           </div>
           <div className="bg-surface aspect-[4/3] relative overflow-hidden rounded-lg">
+            <div className="absolute inset-0 bg-gradient-to-t from-surface via-transparent to-surface/50 pointer-events-none" />
             <img
               src={mapaSedes}
               alt="Mapa de sedes FFitness en Chile"
